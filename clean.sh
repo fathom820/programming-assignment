@@ -1,3 +1,2 @@
-rm -r large
-rm -r medium
-rm -r small
+rm -r input
+rm -r output
