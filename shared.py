@@ -19,13 +19,28 @@ class const:
     num_files       = 30                                                            # number of files generated per category
     ext             = ".dat"                                                        # file extension for data files
     sizes           = [10000, 100000, 1000000]                                      # sizes of each data set
-    paths           = ["input/small/", "input/medium/", "input/large/"]             # paths to all input directories
-    dirs            = ["unsorted/", "small-large/", "large-small/"]                 # paths to each category in the path directories specified above
-    unsorted_paths  = [paths[0] + dirs[0], paths[1] + dirs[0], paths[2] + dirs[0]]  # path to each unsorted directory
-    # todo: paths to sorted files
+    input_paths     = ["input/small/", "input/medium/", "input/large/"]             # paths to all input directories
+    input_dirs      = ["unsorted/", "small-large/", "large-small/"]                 # paths to each category in the path directories specified above
+    unsorted_paths  = [                                                             # paths to each unsorted directory
+        input_paths[0] + input_dirs[0],
+        input_paths[1] + input_dirs[0],
+        input_paths[2] + input_dirs[0]
+    ]
+    lo_hi_paths     = [                                                             # paths to each small-large directory
+        input_paths[0] + input_dirs[1],
+        input_paths[1] + input_dirs[1],
+        input_paths[2] + input_dirs[1]
+    ]
+    hi_lo_paths     = [                                                             # paths to each large-small directory
+        input_paths[0] + input_dirs[2],
+        input_paths[1] + input_dirs[2],
+        input_paths[2] + input_dirs[2]
+    ]
 
-# miscellaneous functions
-# --------------------------------
+    
+# -------------------------------- #
+#      miscellaneous functions     #
+# -------------------------------- #
 
 # prints confirmation that an action was performed on a certain file,
 # along with how long it took. Mainly exists so that the user
