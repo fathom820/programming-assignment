@@ -9,6 +9,7 @@ import sys
 # ! increase recursion limit -- this is necessary for large files to run
 sys.setrecursionlimit(100000000) # far bigger than necessary, lol
 
+s.init_results() # set header in csv file
 
 # open file
 for i in range(3):
@@ -29,4 +30,6 @@ for i in range(3):
             quicksort.quick_sort(input_array, 0, len(input_array) - 1) 
             
             s.array_to_file(input_array, write_to)
+            s.record_results("Quicksort", s.const.sizes_str[i], s.const.cases[j], start_time)
             s.print_action("quick sort", write_to, start_time, False)
+            

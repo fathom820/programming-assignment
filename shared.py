@@ -5,7 +5,8 @@ Everything shared by different files is stored here,
 with no particular arrangement.
 """
 
-import time
+import time # measuring runtime
+import csv  # writing to results.csv
 
 # ANSI escape codes for formatted output. Not all of them are used because I 
 # copied this over from a previous python project instead of bothering to
@@ -27,7 +28,9 @@ class const:
     num_files           = 30                                                            # number of files generated per category
     ext                 = ".dat"                                                        # file extension for data files
     sizes               = [10000, 100000, 1000000]                                      # sizes of each data set
-    results_file        = "out.dat"
+    results_file        = "results.csv"
+    sizes_str           = ["Small", "Medium", "Large"]
+    cases               = ["Unsorted", "Small to Large", "Large to Small"]
     input_paths         = ["input/small/", "input/medium/", "input/large/"]             # paths to all input directories
     dirs                = ["unsorted/", "small-large/", "large-small/"]                 # paths to each category in the path directories specified above
     output_paths        = ["output/small/", "output/medium/", "output/large/"]
@@ -90,10 +93,10 @@ def print_action(action, file_name, start_time, console_only):
     out = colors.ENDC + colors.BOLD + colors.OKCYAN + action + colors.ENDC + " -> " + colors.OKGREEN + file_name + spacer + colors.OKCYAN + colors.BOLD + file_elapsed_time[0 : 4] + colors.ENDC + " seconds"
     print(out)
     
-    if not console_only:
-        f = open(const.results_file, "a")
-        f.write(action + "-" + file_name + "-" + file_elapsed_time + "\n")
-        f.close()
+    #if not console_only:
+     #   f = open(const.results_file, "a")
+      #  f.write(action + "-" + file_name + "-" + file_elapsed_time + "\n")
+       # f.close()
 
 
 # prints a formatted notification to the console
@@ -118,4 +121,22 @@ def array_to_file(A, file):
     f = open(file, "w")
     for num in A:
         f.write(str(num) + "\n")
+    f.close()
+    
+# write out header in CSV file
+def init_results():
+    f = open(const.results_file, "w")
+    writer = csv.writer(f)
+    header = ["Action", "Size", "Case", "Runtime"]
+    f.close()
+    
+# record results in CSV file
+# action: sorting algorithm ("Quicksort", "Mergesort", "Heapsort")
+# size: data size (10,000, 100,000, 1,000,000)
+# time: starting time of algorithm
+def record_results(action, size, case, time_):
+    elapsed_time = time.time() - time_
+    f = open(const.results_file, "a")
+    writer = csv.writer(f)
+    writer.writerow([action, size, case, elapsed_time])
     f.close()

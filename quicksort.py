@@ -5,9 +5,7 @@ import random
 # swap two values in an array
 # A[]: array; i, j: two indexes in A[]
 def array_swap(A, i, j):
-    temp = A[i]
-    A[i] = A[j]
-    A[j] = temp
+    A[i], A[j] = A[j], A[i]
 
 
 # take median of three elements
@@ -17,20 +15,23 @@ def median_three(a, b, c):
 
 def qs_part(A, lo, hi):
     mid = lo
-    p = median_three(A[lo], A[(lo + hi) // 2], A[hi]) # pivot set to median of 3, as described in handout 
+    if len(A) < 101:
+        p = 0
+    else:
+        p = median_three(A[lo], A[(lo + hi) // 2], A[hi]) # pivot set to median of 3, as described in handout 
     # ('//' must be used for floor division in Python 3 -- it took me longer than I'm willing to admit to figure that out.)
     
     while mid <= hi:
         if A[mid] < p:
-            array_swap(A, lo, mid)
-            lo  += 1
+            array_swap(A, mid, lo)
             mid += 1
+            lo  += 1
         elif A[mid] > p:
             array_swap(A, mid, hi)
             hi  -= 1
         else:
             mid += 1
-    return (lo - 1), mid
+    return (lo - 1), mid # return partition
     
 
 # Quicksort implementation as described in handout.
