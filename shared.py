@@ -87,12 +87,12 @@ def print_action(action, file_name, start_time, console_only):
         spacer += " "
 
     file_elapsed_time = format((time.time() - start_time), "")
-    out = colors.ENDC + colors.BOLD + colors.OKCYAN + action + colors.ENDC + " -> " + colors.OKGREEN + file_name + spacer + colors.OKCYAN + colors.BOLD + file_elapsed_time + colors.ENDC + " seconds"
+    out = colors.ENDC + colors.BOLD + colors.OKCYAN + action + colors.ENDC + " -> " + colors.OKGREEN + file_name + spacer + colors.OKCYAN + colors.BOLD + file_elapsed_time[0 : 4] + colors.ENDC + " seconds"
     print(out)
     
     if not console_only:
         f = open(const.results_file, "a")
-        f.write(action + "-" + file_name + "-" + file_elapsed_time[0:4] + "\n")
+        f.write(action + "-" + file_name + "-" + file_elapsed_time + "\n")
         f.close()
 
 

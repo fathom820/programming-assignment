@@ -3,7 +3,7 @@
 from __future__ import print_function
 import time
 import shared as s
-import sorting
+import quicksort
 import sys
 
 # ! increase recursion limit -- this is necessary for large files to run
@@ -26,7 +26,7 @@ for i in range(3):
             input_array = s.file_to_array(read_from)        
             
             start_time  = time.time()  
-            sorting.quick_sort(input_array, 0, len(input_array) - 1) 
+            quicksort.quick_sort(input_array, 0, len(input_array) - 1) 
             
             s.array_to_file(input_array, write_to)
             s.print_action("quick sort", write_to, start_time, False)
