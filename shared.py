@@ -1,9 +1,17 @@
+"""
+This is a common library with functions and variables that
+are utilized by pretty much every single file in the project. 
+Everything shared by different files is stored here,
+with no particular arrangement.
+"""
+
 import time
 
-# ANSI color codes for formatted output. Not all of them are used because I 
-# copied this over from a previous project instead of bothering to
-# look up all of the codes
-class bcolors:
+# ANSI escape codes for formatted output. Not all of them are used because I 
+# copied this over from a previous python project instead of bothering to
+# look up every single one of those annoying codes again.
+# ! some terminals may not render them properly.
+class colors:
     HEADER      = '\033[95m'
     OKBLUE      = '\033[94m'
     OKCYAN      = '\033[96m'
@@ -14,27 +22,44 @@ class bcolors:
     BOLD        = '\033[1m'
     UNDERLINE   = '\033[4m'
 
-# constants that are shared across the various generator & sorting files
+# constants that are shared across all files
 class const:
-    num_files       = 30                                                            # number of files generated per category
-    ext             = ".dat"                                                        # file extension for data files
-    sizes           = [10000, 100000, 1000000]                                      # sizes of each data set
-    input_paths     = ["input/small/", "input/medium/", "input/large/"]             # paths to all input directories
-    input_dirs      = ["unsorted/", "small-large/", "large-small/"]                 # paths to each category in the path directories specified above
-    unsorted_paths  = [                                                             # paths to each unsorted directory
-        input_paths[0] + input_dirs[0],
-        input_paths[1] + input_dirs[0],
-        input_paths[2] + input_dirs[0]
+    num_files           = 30                                                            # number of files generated per category
+    ext                 = ".dat"                                                        # file extension for data files
+    sizes               = [10000, 100000, 1000000]                                      # sizes of each data set
+    results_file        = "out.dat"
+    input_paths         = ["input/small/", "input/medium/", "input/large/"]             # paths to all input directories
+    dirs                = ["unsorted/", "small-large/", "large-small/"]                 # paths to each category in the path directories specified above
+    output_paths        = ["output/small/", "output/medium/", "output/large/"]
+    unsorted_paths      = [                                                             # paths to each unsorted directory
+        input_paths[0]  + dirs[0],
+        input_paths[1]  + dirs[0],
+        input_paths[2]  + dirs[0]
     ]
-    lo_hi_paths     = [                                                             # paths to each small-large directory
-        input_paths[0] + input_dirs[1],
-        input_paths[1] + input_dirs[1],
-        input_paths[2] + input_dirs[1]
+    lo_hi_paths         = [                                                             # paths to each small-large directory
+        input_paths[0]  + dirs[1],
+        input_paths[1]  + dirs[1],
+        input_paths[2]  + dirs[1]
     ]
-    hi_lo_paths     = [                                                             # paths to each large-small directory
-        input_paths[0] + input_dirs[2],
-        input_paths[1] + input_dirs[2],
-        input_paths[2] + input_dirs[2]
+    hi_lo_paths         = [                                                             # paths to each large-small directory
+        input_paths[0]  + dirs[2],
+        input_paths[1]  + dirs[2],
+        input_paths[2]  + dirs[2]
+    ]
+    out_unsorted_paths  = [
+        output_paths[0] + dirs[0],
+        output_paths[1] + dirs[0],
+        output_paths[2] + dirs[0]
+    ]
+    out_lo_hi_paths     = [
+        output_paths[0] + dirs[1],
+        output_paths[1] + dirs[1],
+        output_paths[2] + dirs[1]
+    ]
+    out_hi_lo_paths     = [
+        output_paths[0] + dirs[2],
+        output_paths[1] + dirs[2],
+        output_paths[2] + dirs[2]
     ]
 
     
@@ -43,10 +68,9 @@ class const:
 # -------------------------------- #
 
 # prints confirmation that an action was performed on a certain file,
-# along with how long it took. Mainly exists so that the user
-# can tell the computer is actually doing work, but I've also used
-# it for debugging.
-def print_action(action, file_name, start_time):
+# along with how long it took. exists so that the user
+# can tell that the computer is actually doing work.
+def print_action(action, file_name, start_time, console_only):
     # makes it so that the time display is lined up,
     # regardless of how many characters came before it.
     # it wouldn't be my code if there wasn't my share of nitpicks.
@@ -63,13 +87,35 @@ def print_action(action, file_name, start_time):
         spacer += " "
 
     file_elapsed_time = format((time.time() - start_time), "")
-    print(
-        bcolors.ENDC + bcolors.BOLD + bcolors.OKCYAN + action + bcolors.ENDC + 
-        " -> " + bcolors.OKGREEN + file_name + 
-        spacer + 
-        bcolors.OKCYAN + bcolors.BOLD + 
-        file_elapsed_time[0 : 4] + bcolors.ENDC + " seconds"
-    )
+    out = colors.ENDC + colors.BOLD + colors.OKCYAN + action + colors.ENDC + " -> " + colors.OKGREEN + file_name + spacer + colors.OKCYAN + colors.BOLD +file_elapsed_time[0 : 4] + colors.ENDC + " seconds"
+    print(out)
+    
+    if not console_only:
+        f = open(const.results_file, "a")
+        f.write(action + "-" + file_name + "-" + file_elapsed_time[0:4] + "\n")
+        f.close()
 
+
+# prints a formatted notification to the console
 def print_notif(msg):
-    print(bcolors.HEADER + bcolors.BOLD + " -- " + msg.upper() + " -- " + bcolors.ENDC)
+    print(colors.HEADER + colors.BOLD + " -- " + msg.upper() + " -- " + colors.ENDC)
+
+
+# reads contents of a file, separated by line,
+# then stores them in an array. Returns said array
+def file_to_array(file):
+    out = []
+    f = open(file, "r")
+    for line in f.readlines():
+        out.append(int(line))
+    f.close()
+    return out
+  
+  
+# writes every element in an array to a file,
+# each on a separate line.
+def array_to_file(A, file):
+    f = open(file, "w")
+    for num in A:
+        f.write(str(num) + "\n")
+    f.close()

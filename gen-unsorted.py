@@ -15,13 +15,20 @@ start_time = time.time()
 def gen_dirs():
     # iteratively generate all needd folders
     for p in s.const.input_paths:
-        for d in s.const.input_dirs:
+        for d in s.const.dirs:
             full_path = p + d
             if not os.path.isdir(full_path):
                 print("Path " + full_path + " not found, creating")
                 os.makedirs(full_path)
             else:
                 print("Path " + full_path + " found, ignoring")
+                return
+            
+    for p in s.const.output_paths:
+        for d in s.const.dirs:
+            full_path = p + d
+            if not os.path.isdir(full_path):
+                os.makedirs(full_path)
 
 
 # back to main script
@@ -46,9 +53,10 @@ for i in range(3):
         
         f.close()
         
-        s.print_action("generate file", name, start)
-
+        s.print_action("generate file", name, start, True)
+    print("")
+    
 s.print_notif("done")
 elapsed_time        = format((time.time() - start_time), ",")
 numbers_generated   = format(numbers_generated, ",")
-print("\bGenerated %s numbers across %d files in %s seconds" % (numbers_generated, (3 * s.const.num_files), elapsed_time[0:5]))
+print("\bGenerated %s numbers across %d files in %s seconds" % (numbers_generated, (3 * s.const.num_files), elapsed_time[0:5]), True)
