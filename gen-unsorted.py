@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from __future__ import print_function
 
@@ -23,13 +23,13 @@ def gen_dirs():
             else:
                 print("Path " + full_path + " found, ignoring")
                 return
-            
+    """    
     for p in s.const.output_paths:
         for d in s.const.dirs:
             full_path = p + d
             if not os.path.isdir(full_path):
                 os.makedirs(full_path)
-
+    """
 
 # back to main script
 

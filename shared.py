@@ -70,6 +70,12 @@ class const:
 #      miscellaneous functions     #
 # -------------------------------- #
 
+# swap two values in an array
+# A[]: array; i, j: two indexes in A[]
+def swap(A, i, j):
+    A[i], A[j] = A[j], A[i]
+    
+    
 # prints confirmation that an action was performed on a certain file,
 # along with how long it took. exists so that the user
 # can tell that the computer is actually doing work.
@@ -79,7 +85,7 @@ def print_action(action, file_name, start_time, console_only):
     # it wouldn't be my code if there wasn't my share of nitpicks.
     prespace_len    = len(action + " -> " + file_name)
     spacer          = ""
-    lim             = 50
+    lim             = 60
 
     # in case string preceding the runtime display is longer than default limiter,
     # move the limiter. This will do it in increments of 5, which will
@@ -92,11 +98,6 @@ def print_action(action, file_name, start_time, console_only):
     file_elapsed_time = format((time.time() - start_time), "")
     out = colors.ENDC + colors.BOLD + colors.OKCYAN + action + colors.ENDC + " -> " + colors.OKGREEN + file_name + spacer + colors.OKCYAN + colors.BOLD + file_elapsed_time[0 : 4] + colors.ENDC + " seconds"
     print(out)
-    
-    #if not console_only:
-     #   f = open(const.results_file, "a")
-      #  f.write(action + "-" + file_name + "-" + file_elapsed_time + "\n")
-       # f.close()
 
 
 # prints a formatted notification to the console
@@ -123,11 +124,12 @@ def array_to_file(A, file):
         f.write(str(num) + "\n")
     f.close()
     
+    
 # write out header in CSV file
 def init_results():
     f = open(const.results_file, "w")
     writer = csv.writer(f)
-    header = ["Action", "Size", "Case", "Runtime"]
+    writer.writerow(["Action", "Size", "Case", "Runtime"])
     f.close()
     
 # record results in CSV file
