@@ -1,646 +1,637 @@
 Action,Size,Case,Runtime
-Quicksort,Small,Unsorted,0.09405279159545898
-Mergesort,Small,Unsorted,0.08072280883789062
-Heapsort,Small,Unsorted,0.13892817497253418
-Quicksort,Small,Unsorted,0.06928634643554688
-Mergesort,Small,Unsorted,0.04970812797546387
-Heapsort,Small,Unsorted,0.0978844165802002
-Quicksort,Small,Unsorted,0.0630185604095459
-Mergesort,Small,Unsorted,0.04917597770690918
-Heapsort,Small,Unsorted,0.08371496200561523
-Quicksort,Small,Unsorted,0.05465531349182129
-Mergesort,Small,Unsorted,0.043771982192993164
-Heapsort,Small,Unsorted,0.10971498489379883
-Quicksort,Small,Unsorted,0.07727217674255371
-Mergesort,Small,Unsorted,0.07785892486572266
-Heapsort,Small,Unsorted,0.15291738510131836
-Quicksort,Small,Unsorted,0.10039520263671875
-Mergesort,Small,Unsorted,0.048406124114990234
-Heapsort,Small,Unsorted,0.1214444637298584
-Quicksort,Small,Unsorted,0.10231757164001465
-Mergesort,Small,Unsorted,0.08723187446594238
-Heapsort,Small,Unsorted,0.11168289184570312
-Quicksort,Small,Unsorted,0.08684253692626953
-Mergesort,Small,Unsorted,0.06015968322753906
-Heapsort,Small,Unsorted,0.11328935623168945
-Quicksort,Small,Unsorted,0.07860326766967773
-Mergesort,Small,Unsorted,0.04250335693359375
-Heapsort,Small,Unsorted,0.09418773651123047
-Quicksort,Small,Unsorted,0.060031890869140625
-Mergesort,Small,Unsorted,0.05751824378967285
-Heapsort,Small,Unsorted,0.1363987922668457
-Quicksort,Small,Unsorted,0.055780649185180664
-Mergesort,Small,Unsorted,0.05232810974121094
-Heapsort,Small,Unsorted,0.09839034080505371
-Quicksort,Small,Unsorted,0.06261372566223145
-Mergesort,Small,Unsorted,0.05185127258300781
-Heapsort,Small,Unsorted,0.09764337539672852
-Quicksort,Small,Unsorted,0.07336926460266113
-Mergesort,Small,Unsorted,0.051642417907714844
-Heapsort,Small,Unsorted,0.10689854621887207
-Quicksort,Small,Unsorted,0.07448482513427734
-Mergesort,Small,Unsorted,0.05379462242126465
-Heapsort,Small,Unsorted,0.09494948387145996
-Quicksort,Small,Unsorted,0.09042978286743164
-Mergesort,Small,Unsorted,0.055745840072631836
-Heapsort,Small,Unsorted,0.09036636352539062
-Quicksort,Small,Unsorted,0.06335830688476562
-Mergesort,Small,Unsorted,0.04357266426086426
-Heapsort,Small,Unsorted,0.1500558853149414
-Quicksort,Small,Unsorted,0.07076883316040039
-Mergesort,Small,Unsorted,0.05086159706115723
-Heapsort,Small,Unsorted,0.10059261322021484
-Quicksort,Small,Unsorted,0.07102441787719727
-Mergesort,Small,Unsorted,0.04407930374145508
-Heapsort,Small,Unsorted,0.12063860893249512
-Quicksort,Small,Unsorted,0.0664064884185791
-Mergesort,Small,Unsorted,0.04794740676879883
-Heapsort,Small,Unsorted,0.10620546340942383
-Quicksort,Small,Unsorted,0.08991360664367676
-Mergesort,Small,Unsorted,0.0424041748046875
-Heapsort,Small,Unsorted,0.11472153663635254
-Quicksort,Small,Unsorted,0.08323287963867188
-Mergesort,Small,Unsorted,0.04655718803405762
-Heapsort,Small,Unsorted,0.11248660087585449
-Quicksort,Small,Unsorted,0.10887360572814941
-Mergesort,Small,Unsorted,0.05093097686767578
-Heapsort,Small,Unsorted,0.14789676666259766
-Quicksort,Small,Unsorted,0.0692148208618164
-Mergesort,Small,Unsorted,0.04589366912841797
-Heapsort,Small,Unsorted,0.10840940475463867
-Quicksort,Small,Unsorted,0.07224559783935547
-Mergesort,Small,Unsorted,0.05219125747680664
-Heapsort,Small,Unsorted,0.14477944374084473
-Quicksort,Small,Unsorted,0.059327125549316406
-Mergesort,Small,Unsorted,0.050586700439453125
-Heapsort,Small,Unsorted,0.11643791198730469
-Quicksort,Small,Unsorted,0.06761837005615234
-Mergesort,Small,Unsorted,0.05119037628173828
-Heapsort,Small,Unsorted,0.09637689590454102
-Quicksort,Small,Unsorted,0.05455160140991211
-Mergesort,Small,Unsorted,0.05116868019104004
-Heapsort,Small,Unsorted,0.11166954040527344
-Quicksort,Small,Unsorted,0.06346726417541504
-Mergesort,Small,Unsorted,0.04746198654174805
-Heapsort,Small,Unsorted,0.12247800827026367
-Quicksort,Small,Unsorted,0.09293723106384277
-Mergesort,Small,Unsorted,0.05770158767700195
-Heapsort,Small,Unsorted,0.11744570732116699
-Quicksort,Small,Unsorted,0.05391883850097656
-Mergesort,Small,Unsorted,0.051108598709106445
-Heapsort,Small,Unsorted,0.0968024730682373
-Quicksort,Small,Small to Large,0.2332594394683838
-Mergesort,Small,Small to Large,0.0437617301940918
-Heapsort,Small,Small to Large,0.11638236045837402
-Quicksort,Small,Small to Large,0.22392559051513672
-Mergesort,Small,Small to Large,0.04816722869873047
-Heapsort,Small,Small to Large,0.0881655216217041
-Quicksort,Small,Small to Large,0.22182893753051758
-Mergesort,Small,Small to Large,0.04868364334106445
-Heapsort,Small,Small to Large,0.09405159950256348
-Quicksort,Small,Small to Large,0.18761110305786133
-Mergesort,Small,Small to Large,0.046720266342163086
-Heapsort,Small,Small to Large,0.08300018310546875
-Quicksort,Small,Small to Large,0.22520947456359863
-Mergesort,Small,Small to Large,0.06659364700317383
-Heapsort,Small,Small to Large,0.11597704887390137
-Quicksort,Small,Small to Large,0.23545122146606445
-Mergesort,Small,Small to Large,0.04427671432495117
-Heapsort,Small,Small to Large,0.10517239570617676
-Quicksort,Small,Small to Large,0.20667362213134766
-Mergesort,Small,Small to Large,0.05435776710510254
-Heapsort,Small,Small to Large,0.09861135482788086
-Quicksort,Small,Small to Large,0.21039056777954102
-Mergesort,Small,Small to Large,0.04826831817626953
-Heapsort,Small,Small to Large,0.09660696983337402
-Quicksort,Small,Small to Large,0.26274847984313965
-Mergesort,Small,Small to Large,0.046755313873291016
-Heapsort,Small,Small to Large,0.09153509140014648
-Quicksort,Small,Small to Large,0.23232197761535645
-Mergesort,Small,Small to Large,0.05462646484375
-Heapsort,Small,Small to Large,0.12111020088195801
-Quicksort,Small,Small to Large,0.19078612327575684
-Mergesort,Small,Small to Large,0.05342555046081543
-Heapsort,Small,Small to Large,0.11373496055603027
-Quicksort,Small,Small to Large,0.19762682914733887
-Mergesort,Small,Small to Large,0.09489703178405762
-Heapsort,Small,Small to Large,0.08091020584106445
-Quicksort,Small,Small to Large,0.18579506874084473
-Mergesort,Small,Small to Large,0.05153036117553711
-Heapsort,Small,Small to Large,0.10487127304077148
-Quicksort,Small,Small to Large,0.18859386444091797
-Mergesort,Small,Small to Large,0.04745936393737793
-Heapsort,Small,Small to Large,0.08838510513305664
-Quicksort,Small,Small to Large,0.31327199935913086
-Mergesort,Small,Small to Large,0.043956756591796875
-Heapsort,Small,Small to Large,0.10244417190551758
-Quicksort,Small,Small to Large,0.2405529022216797
-Mergesort,Small,Small to Large,0.0461885929107666
-Heapsort,Small,Small to Large,0.12636780738830566
-Quicksort,Small,Small to Large,0.20601940155029297
-Mergesort,Small,Small to Large,0.058588266372680664
-Heapsort,Small,Small to Large,0.09335565567016602
-Quicksort,Small,Small to Large,0.24123477935791016
-Mergesort,Small,Small to Large,0.06070065498352051
-Heapsort,Small,Small to Large,0.1235957145690918
-Quicksort,Small,Small to Large,0.1813058853149414
-Mergesort,Small,Small to Large,0.07086396217346191
-Heapsort,Small,Small to Large,0.11911129951477051
-Quicksort,Small,Small to Large,0.20668315887451172
-Mergesort,Small,Small to Large,0.04298210144042969
-Heapsort,Small,Small to Large,0.09046077728271484
-Quicksort,Small,Small to Large,0.22675418853759766
-Mergesort,Small,Small to Large,0.04614877700805664
-Heapsort,Small,Small to Large,0.08819079399108887
-Quicksort,Small,Small to Large,0.19765353202819824
-Mergesort,Small,Small to Large,0.05022907257080078
-Heapsort,Small,Small to Large,0.09237813949584961
-Quicksort,Small,Small to Large,0.19818520545959473
-Mergesort,Small,Small to Large,0.04777932167053223
-Heapsort,Small,Small to Large,0.09187507629394531
-Quicksort,Small,Small to Large,0.21667742729187012
-Mergesort,Small,Small to Large,0.04091978073120117
-Heapsort,Small,Small to Large,0.11206626892089844
-Quicksort,Small,Small to Large,0.19034647941589355
-Mergesort,Small,Small to Large,0.08332705497741699
-Heapsort,Small,Small to Large,0.1830146312713623
-Quicksort,Small,Small to Large,0.2685666084289551
-Mergesort,Small,Small to Large,0.044180870056152344
-Heapsort,Small,Small to Large,0.09443378448486328
-Quicksort,Small,Small to Large,0.20128107070922852
-Mergesort,Small,Small to Large,0.0461423397064209
-Heapsort,Small,Small to Large,0.09132075309753418
-Quicksort,Small,Small to Large,0.20346546173095703
-Mergesort,Small,Small to Large,0.044298410415649414
-Heapsort,Small,Small to Large,0.09383273124694824
-Quicksort,Small,Small to Large,0.19057345390319824
-Mergesort,Small,Small to Large,0.04711437225341797
-Heapsort,Small,Small to Large,0.11080670356750488
-Quicksort,Small,Small to Large,0.17667341232299805
-Mergesort,Small,Small to Large,0.0786888599395752
-Heapsort,Small,Small to Large,0.10001659393310547
-Quicksort,Small,Large to Small,0.14115333557128906
-Mergesort,Small,Large to Small,0.04580497741699219
-Heapsort,Small,Large to Small,0.1141502857208252
-Quicksort,Small,Large to Small,0.15485692024230957
-Mergesort,Small,Large to Small,0.0469965934753418
-Heapsort,Small,Large to Small,0.08579421043395996
-Quicksort,Small,Large to Small,0.13195037841796875
-Mergesort,Small,Large to Small,0.04939007759094238
-Heapsort,Small,Large to Small,0.09941458702087402
-Quicksort,Small,Large to Small,0.19833159446716309
-Mergesort,Small,Large to Small,0.044873714447021484
-Heapsort,Small,Large to Small,0.09545493125915527
-Quicksort,Small,Large to Small,0.15796256065368652
-Mergesort,Small,Large to Small,0.047141313552856445
-Heapsort,Small,Large to Small,0.09156179428100586
-Quicksort,Small,Large to Small,0.1941072940826416
-Mergesort,Small,Large to Small,0.07947921752929688
-Heapsort,Small,Large to Small,0.16439127922058105
-Quicksort,Small,Large to Small,0.15334677696228027
-Mergesort,Small,Large to Small,0.050095319747924805
-Heapsort,Small,Large to Small,0.15097737312316895
-Quicksort,Small,Large to Small,0.18646574020385742
-Mergesort,Small,Large to Small,0.07441449165344238
-Heapsort,Small,Large to Small,0.1762993335723877
-Quicksort,Small,Large to Small,0.19072365760803223
-Mergesort,Small,Large to Small,0.06138038635253906
-Heapsort,Small,Large to Small,0.09543704986572266
-Quicksort,Small,Large to Small,0.18283438682556152
-Mergesort,Small,Large to Small,0.09184765815734863
-Heapsort,Small,Large to Small,0.17545485496520996
-Quicksort,Small,Large to Small,0.25171804428100586
-Mergesort,Small,Large to Small,0.08782291412353516
-Heapsort,Small,Large to Small,0.1219778060913086
-Quicksort,Small,Large to Small,0.2156972885131836
-Mergesort,Small,Large to Small,0.07969093322753906
-Heapsort,Small,Large to Small,0.13389825820922852
-Quicksort,Small,Large to Small,0.16151070594787598
-Mergesort,Small,Large to Small,0.05268502235412598
-Heapsort,Small,Large to Small,0.17275166511535645
-Quicksort,Small,Large to Small,0.1838853359222412
-Mergesort,Small,Large to Small,0.04397177696228027
-Heapsort,Small,Large to Small,0.0800318717956543
-Quicksort,Small,Large to Small,0.13537073135375977
-Mergesort,Small,Large to Small,0.04578375816345215
-Heapsort,Small,Large to Small,0.08428287506103516
-Quicksort,Small,Large to Small,0.13608717918395996
-Mergesort,Small,Large to Small,0.05799412727355957
-Heapsort,Small,Large to Small,0.0858163833618164
-Quicksort,Small,Large to Small,0.11731767654418945
-Mergesort,Small,Large to Small,0.045944929122924805
-Heapsort,Small,Large to Small,0.09477663040161133
-Quicksort,Small,Large to Small,0.13991761207580566
-Mergesort,Small,Large to Small,0.05511665344238281
-Heapsort,Small,Large to Small,0.08867239952087402
-Quicksort,Small,Large to Small,0.12962913513183594
-Mergesort,Small,Large to Small,0.05595541000366211
-Heapsort,Small,Large to Small,0.08265042304992676
-Quicksort,Small,Large to Small,0.14554977416992188
-Mergesort,Small,Large to Small,0.05178022384643555
-Heapsort,Small,Large to Small,0.12813830375671387
-Quicksort,Small,Large to Small,0.21383237838745117
-Mergesort,Small,Large to Small,0.048719167709350586
-Heapsort,Small,Large to Small,0.08242368698120117
-Quicksort,Small,Large to Small,0.11826515197753906
-Mergesort,Small,Large to Small,0.04046201705932617
-Heapsort,Small,Large to Small,0.09684514999389648
-Quicksort,Small,Large to Small,0.13634705543518066
-Mergesort,Small,Large to Small,0.07330465316772461
-Heapsort,Small,Large to Small,0.09826040267944336
-Quicksort,Small,Large to Small,0.1498270034790039
-Mergesort,Small,Large to Small,0.0433962345123291
-Heapsort,Small,Large to Small,0.09965109825134277
-Quicksort,Small,Large to Small,0.18561172485351562
-Mergesort,Small,Large to Small,0.04117012023925781
-Heapsort,Small,Large to Small,0.0807335376739502
-Quicksort,Small,Large to Small,0.14301395416259766
-Mergesort,Small,Large to Small,0.05961203575134277
-Heapsort,Small,Large to Small,0.15971016883850098
-Quicksort,Small,Large to Small,0.24356532096862793
-Mergesort,Small,Large to Small,0.04480099678039551
-Heapsort,Small,Large to Small,0.14126873016357422
-Quicksort,Small,Large to Small,0.27895474433898926
-Mergesort,Small,Large to Small,0.08138561248779297
-Heapsort,Small,Large to Small,0.10452127456665039
-Quicksort,Small,Large to Small,0.12025809288024902
-Mergesort,Small,Large to Small,0.056742191314697266
-Heapsort,Small,Large to Small,0.0786583423614502
-Quicksort,Small,Large to Small,0.12343859672546387
-Mergesort,Small,Large to Small,0.0500187873840332
-Heapsort,Small,Large to Small,0.0819389820098877
-Quicksort,Medium,Unsorted,0.47814393043518066
-Mergesort,Medium,Unsorted,0.40215229988098145
-Heapsort,Medium,Unsorted,0.9017887115478516
-Quicksort,Medium,Unsorted,0.48600029945373535
-Mergesort,Medium,Unsorted,0.39575624465942383
-Heapsort,Medium,Unsorted,0.9093396663665771
-Quicksort,Medium,Unsorted,0.49159979820251465
-Mergesort,Medium,Unsorted,0.3899657726287842
-Heapsort,Medium,Unsorted,0.8711881637573242
-Quicksort,Medium,Unsorted,0.43382954597473145
-Mergesort,Medium,Unsorted,0.36275744438171387
-Heapsort,Medium,Unsorted,0.8801710605621338
-Quicksort,Medium,Unsorted,0.9356369972229004
-Mergesort,Medium,Unsorted,0.4445476531982422
-Heapsort,Medium,Unsorted,1.0415730476379395
-Quicksort,Medium,Unsorted,0.7039244174957275
-Mergesort,Medium,Unsorted,0.5995829105377197
-Heapsort,Medium,Unsorted,1.0928301811218262
-Quicksort,Medium,Unsorted,0.6958262920379639
-Mergesort,Medium,Unsorted,0.42957115173339844
-Heapsort,Medium,Unsorted,1.6285731792449951
-Quicksort,Medium,Unsorted,0.5658597946166992
-Mergesort,Medium,Unsorted,0.6516444683074951
-Heapsort,Medium,Unsorted,1.18406081199646
-Quicksort,Medium,Unsorted,0.553138017654419
-Mergesort,Medium,Unsorted,0.5218803882598877
-Heapsort,Medium,Unsorted,1.2429218292236328
-Quicksort,Medium,Unsorted,0.5073938369750977
-Mergesort,Medium,Unsorted,0.37005186080932617
-Heapsort,Medium,Unsorted,1.1668670177459717
-Quicksort,Medium,Unsorted,0.5001890659332275
-Mergesort,Medium,Unsorted,0.36140012741088867
-Heapsort,Medium,Unsorted,0.9873690605163574
-Quicksort,Medium,Unsorted,0.4756433963775635
-Mergesort,Medium,Unsorted,0.431140661239624
-Heapsort,Medium,Unsorted,1.066195011138916
-Quicksort,Medium,Unsorted,0.5838992595672607
-Mergesort,Medium,Unsorted,0.4353210926055908
-Heapsort,Medium,Unsorted,1.2439696788787842
-Quicksort,Medium,Unsorted,0.47809720039367676
-Mergesort,Medium,Unsorted,0.35115742683410645
-Heapsort,Medium,Unsorted,1.0925419330596924
-Quicksort,Medium,Unsorted,0.9367923736572266
-Mergesort,Medium,Unsorted,0.5189306735992432
-Heapsort,Medium,Unsorted,0.959557056427002
-Quicksort,Medium,Unsorted,0.6536691188812256
-Mergesort,Medium,Unsorted,0.8036115169525146
-Heapsort,Medium,Unsorted,0.9366321563720703
-Quicksort,Medium,Unsorted,0.4577159881591797
-Mergesort,Medium,Unsorted,0.3842318058013916
-Heapsort,Medium,Unsorted,1.3466966152191162
-Quicksort,Medium,Unsorted,0.649724006652832
-Mergesort,Medium,Unsorted,0.4643440246582031
-Heapsort,Medium,Unsorted,1.3868110179901123
-Quicksort,Medium,Unsorted,0.5713655948638916
-Mergesort,Medium,Unsorted,0.38459086418151855
-Heapsort,Medium,Unsorted,1.0530192852020264
-Quicksort,Medium,Unsorted,0.6923732757568359
-Mergesort,Medium,Unsorted,0.5495576858520508
-Heapsort,Medium,Unsorted,1.3218486309051514
-Quicksort,Medium,Unsorted,0.7165102958679199
-Mergesort,Medium,Unsorted,0.42806029319763184
-Heapsort,Medium,Unsorted,1.088468074798584
-Quicksort,Medium,Unsorted,0.5250885486602783
-Mergesort,Medium,Unsorted,0.41229867935180664
-Heapsort,Medium,Unsorted,0.9987595081329346
-Quicksort,Medium,Unsorted,0.5525121688842773
-Mergesort,Medium,Unsorted,0.717125415802002
-Heapsort,Medium,Unsorted,1.1938815116882324
-Quicksort,Medium,Unsorted,0.5464904308319092
-Mergesort,Medium,Unsorted,0.37779784202575684
-Heapsort,Medium,Unsorted,0.9784488677978516
-Quicksort,Medium,Unsorted,0.5150988101959229
-Mergesort,Medium,Unsorted,0.3860948085784912
-Heapsort,Medium,Unsorted,0.9561672210693359
-Quicksort,Medium,Unsorted,0.4951908588409424
-Mergesort,Medium,Unsorted,0.6185746192932129
-Heapsort,Medium,Unsorted,1.1526241302490234
-Quicksort,Medium,Unsorted,0.49155569076538086
-Mergesort,Medium,Unsorted,0.3924286365509033
-Heapsort,Medium,Unsorted,1.0051703453063965
-Quicksort,Medium,Unsorted,0.4946749210357666
-Mergesort,Medium,Unsorted,0.3796823024749756
-Heapsort,Medium,Unsorted,1.0727341175079346
-Quicksort,Medium,Unsorted,0.6564931869506836
-Mergesort,Medium,Unsorted,0.7526271343231201
-Heapsort,Medium,Unsorted,0.9646940231323242
-Quicksort,Medium,Unsorted,0.7527074813842773
-Mergesort,Medium,Unsorted,0.3977341651916504
-Heapsort,Medium,Unsorted,0.9403846263885498
-Quicksort,Medium,Small to Large,4.245464563369751
-Mergesort,Medium,Small to Large,0.3647599220275879
-Heapsort,Medium,Small to Large,0.9249544143676758
-Quicksort,Medium,Small to Large,4.051872253417969
-Mergesort,Medium,Small to Large,0.35855746269226074
-Heapsort,Medium,Small to Large,0.9184718132019043
-Quicksort,Medium,Small to Large,4.362698078155518
-Mergesort,Medium,Small to Large,0.3420121669769287
-Heapsort,Medium,Small to Large,0.8568620681762695
-Quicksort,Medium,Small to Large,4.022772789001465
-Mergesort,Medium,Small to Large,0.31676268577575684
-Heapsort,Medium,Small to Large,0.9240579605102539
-Quicksort,Medium,Small to Large,3.8374009132385254
-Mergesort,Medium,Small to Large,0.5273709297180176
-Heapsort,Medium,Small to Large,0.9942667484283447
-Quicksort,Medium,Small to Large,3.690755844116211
-Mergesort,Medium,Small to Large,0.45571088790893555
-Heapsort,Medium,Small to Large,1.2356996536254883
-Quicksort,Medium,Small to Large,3.837045669555664
-Mergesort,Medium,Small to Large,0.3359251022338867
-Heapsort,Medium,Small to Large,1.0359208583831787
-Quicksort,Medium,Small to Large,3.797255516052246
-Mergesort,Medium,Small to Large,0.3471040725708008
-Heapsort,Medium,Small to Large,1.315058946609497
-Quicksort,Medium,Small to Large,3.6442456245422363
-Mergesort,Medium,Small to Large,0.35230112075805664
-Heapsort,Medium,Small to Large,0.9161386489868164
-Quicksort,Medium,Small to Large,4.030034780502319
-Mergesort,Medium,Small to Large,0.3659656047821045
-Heapsort,Medium,Small to Large,0.9243218898773193
-Quicksort,Medium,Small to Large,3.9931182861328125
-Mergesort,Medium,Small to Large,0.33803606033325195
-Heapsort,Medium,Small to Large,0.8956890106201172
-Quicksort,Medium,Small to Large,3.9948744773864746
-Mergesort,Medium,Small to Large,0.35201287269592285
-Heapsort,Medium,Small to Large,0.905181884765625
-Quicksort,Medium,Small to Large,5.287816047668457
-Mergesort,Medium,Small to Large,0.430187463760376
-Heapsort,Medium,Small to Large,1.1545300483703613
-Quicksort,Medium,Small to Large,4.3811986446380615
-Mergesort,Medium,Small to Large,0.3493387699127197
-Heapsort,Medium,Small to Large,0.9551723003387451
-Quicksort,Medium,Small to Large,4.202959060668945
-Mergesort,Medium,Small to Large,0.36853766441345215
-Heapsort,Medium,Small to Large,0.9496886730194092
-Quicksort,Medium,Small to Large,4.109736204147339
-Mergesort,Medium,Small to Large,0.34185361862182617
-Heapsort,Medium,Small to Large,0.9357101917266846
-Quicksort,Medium,Small to Large,4.142458438873291
-Mergesort,Medium,Small to Large,0.34329652786254883
-Heapsort,Medium,Small to Large,1.073228120803833
-Quicksort,Medium,Small to Large,4.064267873764038
-Mergesort,Medium,Small to Large,0.3496220111846924
-Heapsort,Medium,Small to Large,0.8976759910583496
-Quicksort,Medium,Small to Large,5.180730104446411
-Mergesort,Medium,Small to Large,0.37056779861450195
-Heapsort,Medium,Small to Large,0.9463274478912354
-Quicksort,Medium,Small to Large,4.1317150592803955
-Mergesort,Medium,Small to Large,0.37719154357910156
-Heapsort,Medium,Small to Large,0.993772029876709
-Quicksort,Medium,Small to Large,4.256737947463989
-Mergesort,Medium,Small to Large,0.34465742111206055
-Heapsort,Medium,Small to Large,0.8854148387908936
-Quicksort,Medium,Small to Large,4.1174705028533936
-Mergesort,Medium,Small to Large,0.35791826248168945
-Heapsort,Medium,Small to Large,0.9181880950927734
-Quicksort,Medium,Small to Large,3.959882974624634
-Mergesort,Medium,Small to Large,0.4933922290802002
-Heapsort,Medium,Small to Large,1.0305187702178955
-Quicksort,Medium,Small to Large,3.8003337383270264
-Mergesort,Medium,Small to Large,0.5430691242218018
-Heapsort,Medium,Small to Large,1.1435179710388184
-Quicksort,Medium,Small to Large,3.8172919750213623
-Mergesort,Medium,Small to Large,0.35976576805114746
-Heapsort,Medium,Small to Large,1.1191434860229492
-Quicksort,Medium,Small to Large,3.857234001159668
-Mergesort,Medium,Small to Large,0.35175132751464844
-Heapsort,Medium,Small to Large,1.3057749271392822
-Quicksort,Medium,Small to Large,3.814537763595581
-Mergesort,Medium,Small to Large,0.3492546081542969
-Heapsort,Medium,Small to Large,1.0453455448150635
-Quicksort,Medium,Small to Large,4.042566299438477
-Mergesort,Medium,Small to Large,0.3452305793762207
-Heapsort,Medium,Small to Large,0.9457731246948242
-Quicksort,Medium,Small to Large,4.246308088302612
-Mergesort,Medium,Small to Large,0.3408238887786865
-Heapsort,Medium,Small to Large,0.9619789123535156
-Quicksort,Medium,Small to Large,4.198689699172974
-Mergesort,Medium,Small to Large,0.34140658378601074
-Heapsort,Medium,Small to Large,0.8844592571258545
-Quicksort,Medium,Large to Small,3.0150086879730225
-Mergesort,Medium,Large to Small,0.3392345905303955
-Heapsort,Medium,Large to Small,0.9086275100708008
-Quicksort,Medium,Large to Small,2.8665401935577393
-Mergesort,Medium,Large to Small,0.5622892379760742
-Heapsort,Medium,Large to Small,0.912693977355957
-Quicksort,Medium,Large to Small,2.700237989425659
-Mergesort,Medium,Large to Small,0.35097384452819824
-Heapsort,Medium,Large to Small,0.9350371360778809
-Quicksort,Medium,Large to Small,3.0804896354675293
-Mergesort,Medium,Large to Small,0.3603477478027344
-Heapsort,Medium,Large to Small,0.9157724380493164
-Quicksort,Medium,Large to Small,3.0953853130340576
-Mergesort,Medium,Large to Small,0.37058234214782715
-Heapsort,Medium,Large to Small,0.9444332122802734
-Quicksort,Medium,Large to Small,2.780472993850708
-Mergesort,Medium,Large to Small,0.4676513671875
-Heapsort,Medium,Large to Small,1.0215671062469482
-Quicksort,Medium,Large to Small,2.7505807876586914
-Mergesort,Medium,Large to Small,0.3602423667907715
-Heapsort,Medium,Large to Small,0.8865556716918945
-Quicksort,Medium,Large to Small,3.1315701007843018
-Mergesort,Medium,Large to Small,0.446077823638916
-Heapsort,Medium,Large to Small,1.141780138015747
-Quicksort,Medium,Large to Small,2.965940237045288
-Mergesort,Medium,Large to Small,0.36239051818847656
-Heapsort,Medium,Large to Small,0.8975281715393066
-Quicksort,Medium,Large to Small,2.7750723361968994
-Mergesort,Medium,Large to Small,0.36254239082336426
-Heapsort,Medium,Large to Small,1.0490832328796387
-Quicksort,Medium,Large to Small,2.753603935241699
-Mergesort,Medium,Large to Small,0.3576512336730957
-Heapsort,Medium,Large to Small,0.8865315914154053
-Quicksort,Medium,Large to Small,3.0260062217712402
-Mergesort,Medium,Large to Small,0.3419182300567627
-Heapsort,Medium,Large to Small,0.8789772987365723
-Quicksort,Medium,Large to Small,3.450669288635254
-Mergesort,Medium,Large to Small,0.5689220428466797
-Heapsort,Medium,Large to Small,1.1261272430419922
-Quicksort,Medium,Large to Small,3.6370537281036377
-Mergesort,Medium,Large to Small,0.5479307174682617
-Heapsort,Medium,Large to Small,1.282752275466919
-Quicksort,Medium,Large to Small,3.7586936950683594
-Mergesort,Medium,Large to Small,0.3558192253112793
-Heapsort,Medium,Large to Small,1.1573195457458496
-Quicksort,Medium,Large to Small,4.176940441131592
-Mergesort,Medium,Large to Small,0.5360496044158936
-Heapsort,Medium,Large to Small,1.1100616455078125
-Quicksort,Medium,Large to Small,3.9061172008514404
-Mergesort,Medium,Large to Small,0.3804023265838623
-Heapsort,Medium,Large to Small,0.9385967254638672
-Quicksort,Medium,Large to Small,3.6505935192108154
-Mergesort,Medium,Large to Small,0.468341588973999
-Heapsort,Medium,Large to Small,1.1278254985809326
-Quicksort,Medium,Large to Small,3.2881932258605957
-Mergesort,Medium,Large to Small,0.35423779487609863
-Heapsort,Medium,Large to Small,1.2768261432647705
-Quicksort,Medium,Large to Small,2.7571022510528564
-Mergesort,Medium,Large to Small,0.3596467971801758
-Heapsort,Medium,Large to Small,0.894700288772583
-Quicksort,Medium,Large to Small,3.271409273147583
-Mergesort,Medium,Large to Small,0.3460392951965332
-Heapsort,Medium,Large to Small,0.954749345779419
-Quicksort,Medium,Large to Small,3.169736862182617
-Mergesort,Medium,Large to Small,0.38854193687438965
-Heapsort,Medium,Large to Small,0.9098386764526367
-Quicksort,Medium,Large to Small,3.469271421432495
-Mergesort,Medium,Large to Small,0.5133309364318848
-Heapsort,Medium,Large to Small,1.476654291152954
-Quicksort,Medium,Large to Small,3.5761208534240723
-Mergesort,Medium,Large to Small,0.48081493377685547
-Heapsort,Medium,Large to Small,1.4295334815979004
-Quicksort,Medium,Large to Small,4.535646677017212
-Mergesort,Medium,Large to Small,0.6355550289154053
-Heapsort,Medium,Large to Small,1.3595383167266846
-Quicksort,Medium,Large to Small,2.9763550758361816
-Mergesort,Medium,Large to Small,0.3897852897644043
-Heapsort,Medium,Large to Small,1.3414268493652344
-Quicksort,Medium,Large to Small,3.0766358375549316
-Mergesort,Medium,Large to Small,0.3608837127685547
-Heapsort,Medium,Large to Small,1.0431385040283203
-Quicksort,Medium,Large to Small,3.5370049476623535
-Mergesort,Medium,Large to Small,0.3566882610321045
-Heapsort,Medium,Large to Small,0.9496994018554688
-Quicksort,Medium,Large to Small,3.202181100845337
-Mergesort,Medium,Large to Small,0.3516545295715332
-Heapsort,Medium,Large to Small,0.9623780250549316
-Quicksort,Medium,Large to Small,3.1376242637634277
-Mergesort,Medium,Large to Small,0.3474249839782715
-Heapsort,Medium,Large to Small,0.9648401737213135
-Quicksort,Large,Unsorted,6.266850471496582
-Mergesort,Large,Unsorted,6.17784309387207
-Heapsort,Large,Unsorted,10.254077434539795
-Quicksort,Large,Unsorted,4.866523027420044
-Mergesort,Large,Unsorted,5.031834125518799
-Heapsort,Large,Unsorted,11.295858144760132
-Quicksort,Large,Unsorted,5.260680198669434
-Mergesort,Large,Unsorted,5.556563854217529
-Heapsort,Large,Unsorted,10.660400152206421
-Quicksort,Large,Unsorted,7.816376209259033
-Mergesort,Large,Unsorted,6.447990655899048
-Heapsort,Large,Unsorted,10.649309635162354
-Quicksort,Large,Unsorted,5.446793556213379
-Mergesort,Large,Unsorted,5.4566051959991455
-Heapsort,Large,Unsorted,10.807897567749023
-Quicksort,Large,Unsorted,5.903120517730713
-Mergesort,Large,Unsorted,5.49269962310791
-Heapsort,Large,Unsorted,10.714195728302002
-Quicksort,Large,Unsorted,6.209012985229492
-Mergesort,Large,Unsorted,6.098227500915527
-Heapsort,Large,Unsorted,12.038480043411255
-Quicksort,Large,Unsorted,5.696549892425537
-Mergesort,Large,Unsorted,6.7192182540893555
-Heapsort,Large,Unsorted,13.17257022857666
-Quicksort,Large,Unsorted,5.820259094238281
-Mergesort,Large,Unsorted,6.078745126724243
-Heapsort,Large,Unsorted,13.065372228622437
-Quicksort,Large,Unsorted,7.455715894699097
-Mergesort,Large,Unsorted,6.233039617538452
-Heapsort,Large,Unsorted,12.38030195236206
-Quicksort,Large,Unsorted,5.9258503913879395
-Mergesort,Large,Unsorted,5.582913398742676
-Heapsort,Large,Unsorted,10.404813051223755
-Quicksort,Large,Unsorted,6.129293203353882
-Mergesort,Large,Unsorted,5.566912889480591
-Heapsort,Large,Unsorted,10.57934045791626
-Quicksort,Large,Unsorted,5.6291399002075195
-Mergesort,Large,Unsorted,5.494817018508911
-Heapsort,Large,Unsorted,11.598453998565674
-Quicksort,Large,Unsorted,6.295116186141968
-Mergesort,Large,Unsorted,5.8650031089782715
-Heapsort,Large,Unsorted,12.413423776626587
-Quicksort,Large,Unsorted,6.235092639923096
-Mergesort,Large,Unsorted,5.266481637954712
-Heapsort,Large,Unsorted,10.849576473236084
-Quicksort,Large,Unsorted,5.423466682434082
-Mergesort,Large,Unsorted,5.2117085456848145
-Heapsort,Large,Unsorted,10.719204902648926
-Quicksort,Large,Unsorted,5.67200231552124
-Mergesort,Large,Unsorted,5.495179891586304
-Heapsort,Large,Unsorted,12.112303495407104
-Quicksort,Large,Unsorted,5.740699529647827
-Mergesort,Large,Unsorted,5.726027488708496
-Heapsort,Large,Unsorted,12.591222286224365
-Quicksort,Large,Unsorted,6.017718315124512
-Mergesort,Large,Unsorted,6.545979738235474
-Heapsort,Large,Unsorted,12.96152114868164
-Quicksort,Large,Unsorted,7.875835180282593
-Mergesort,Large,Unsorted,7.2226481437683105
-Heapsort,Large,Unsorted,13.286799907684326
-Quicksort,Large,Unsorted,8.398811101913452
-Mergesort,Large,Unsorted,5.176778078079224
-Heapsort,Large,Unsorted,14.077738761901855
-Quicksort,Large,Unsorted,4.648630619049072
-Mergesort,Large,Unsorted,4.646624803543091
-Heapsort,Large,Unsorted,9.258530378341675
-Quicksort,Large,Unsorted,7.691950559616089
-Mergesort,Large,Unsorted,7.564398288726807
-Heapsort,Large,Unsorted,10.884397983551025
-Quicksort,Large,Unsorted,8.540943145751953
-Mergesort,Large,Unsorted,6.332652568817139
-Heapsort,Large,Unsorted,12.902269124984741
-Quicksort,Large,Unsorted,7.7292280197143555
-Mergesort,Large,Unsorted,7.957752704620361
-Heapsort,Large,Unsorted,15.889641284942627
-Quicksort,Large,Unsorted,9.242793798446655
-Mergesort,Large,Unsorted,7.199871301651001
-Heapsort,Large,Unsorted,10.909518003463745
-Quicksort,Large,Unsorted,4.667658090591431
-Mergesort,Large,Unsorted,7.38472843170166
-Heapsort,Large,Unsorted,11.151942491531372
-Quicksort,Large,Unsorted,8.342071533203125
-Mergesort,Large,Unsorted,7.850428819656372
-Heapsort,Large,Unsorted,16.129256010055542
-Quicksort,Large,Unsorted,7.292173385620117
-Mergesort,Large,Unsorted,4.703633546829224
-Heapsort,Large,Unsorted,13.623798608779907
-Quicksort,Large,Unsorted,7.234441518783569
-Mergesort,Large,Unsorted,5.9320361614227295
-Heapsort,Large,Unsorted,10.379291772842407
-Quicksort,Large,Small to Large,100.10783004760742
-Mergesort,Large,Small to Large,3.9439749717712402
-Heapsort,Large,Small to Large,8.623176574707031
-Quicksort,Large,Small to Large,100.49420857429504
-Mergesort,Large,Small to Large,4.106091737747192
-Heapsort,Large,Small to Large,8.445101976394653
-Quicksort,Large,Small to Large,110.6684205532074
-Mergesort,Large,Small to Large,3.3479950428009033
-Heapsort,Large,Small to Large,8.134939908981323
-Quicksort,Large,Small to Large,97.23227334022522
-Mergesort,Large,Small to Large,3.8419206142425537
-Heapsort,Large,Small to Large,8.42346477508545
-Quicksort,Large,Small to Large,101.29719829559326
-Mergesort,Large,Small to Large,3.6199498176574707
-Heapsort,Large,Small to Large,9.004664421081543
+Quicksort,Small,Unsorted,0.032645225524902344
+Mergesort,Small,Unsorted,0.021320819854736328
+Heapsort,Small,Unsorted,0.061809539794921875
+Quicksort,Small,Unsorted,0.042134761810302734
+Mergesort,Small,Unsorted,0.025348901748657227
+Heapsort,Small,Unsorted,0.07927298545837402
+Quicksort,Small,Unsorted,0.0643157958984375
+Mergesort,Small,Unsorted,0.05671095848083496
+Heapsort,Small,Unsorted,0.09071207046508789
+Quicksort,Small,Unsorted,0.04195404052734375
+Mergesort,Small,Unsorted,0.023977279663085938
+Heapsort,Small,Unsorted,0.06369376182556152
+Quicksort,Small,Unsorted,0.047132015228271484
+Mergesort,Small,Unsorted,0.03267955780029297
+Heapsort,Small,Unsorted,0.07850885391235352
+Quicksort,Small,Unsorted,0.04854226112365723
+Mergesort,Small,Unsorted,0.04134106636047363
+Heapsort,Small,Unsorted,0.09697103500366211
+Quicksort,Small,Unsorted,0.08144187927246094
+Mergesort,Small,Unsorted,0.028014183044433594
+Heapsort,Small,Unsorted,0.08476567268371582
+Quicksort,Small,Unsorted,0.06873726844787598
+Mergesort,Small,Unsorted,0.03135418891906738
+Heapsort,Small,Unsorted,0.0614013671875
+Quicksort,Small,Unsorted,0.045668601989746094
+Mergesort,Small,Unsorted,0.028502702713012695
+Heapsort,Small,Unsorted,0.07390284538269043
+Quicksort,Small,Unsorted,0.048047780990600586
+Mergesort,Small,Unsorted,0.06308150291442871
+Heapsort,Small,Unsorted,0.0728459358215332
+Quicksort,Small,Unsorted,0.054358482360839844
+Mergesort,Small,Unsorted,0.03398561477661133
+Heapsort,Small,Unsorted,0.07568097114562988
+Quicksort,Small,Unsorted,0.05960536003112793
+Mergesort,Small,Unsorted,0.0379486083984375
+Heapsort,Small,Unsorted,0.06673240661621094
+Quicksort,Small,Unsorted,0.06547164916992188
+Mergesort,Small,Unsorted,0.041184186935424805
+Heapsort,Small,Unsorted,0.10594749450683594
+Quicksort,Small,Unsorted,0.0893239974975586
+Mergesort,Small,Unsorted,0.02774333953857422
+Heapsort,Small,Unsorted,0.10026192665100098
+Quicksort,Small,Unsorted,0.07211160659790039
+Mergesort,Small,Unsorted,0.03837299346923828
+Heapsort,Small,Unsorted,0.07210350036621094
+Quicksort,Small,Unsorted,0.04356694221496582
+Mergesort,Small,Unsorted,0.04894232749938965
+Heapsort,Small,Unsorted,0.12421107292175293
+Quicksort,Small,Unsorted,0.051134347915649414
+Mergesort,Small,Unsorted,0.04358673095703125
+Heapsort,Small,Unsorted,0.07233524322509766
+Quicksort,Small,Unsorted,0.05392765998840332
+Mergesort,Small,Unsorted,0.03595304489135742
+Heapsort,Small,Unsorted,0.07728219032287598
+Quicksort,Small,Unsorted,0.05082535743713379
+Mergesort,Small,Unsorted,0.04146695137023926
+Heapsort,Small,Unsorted,0.10550522804260254
+Quicksort,Small,Unsorted,0.0525057315826416
+Mergesort,Small,Unsorted,0.027333736419677734
+Heapsort,Small,Unsorted,0.08631443977355957
+Quicksort,Small,Unsorted,0.05951118469238281
+Mergesort,Small,Unsorted,0.033788442611694336
+Heapsort,Small,Unsorted,0.10606741905212402
+Quicksort,Small,Unsorted,0.06598305702209473
+Mergesort,Small,Unsorted,0.03268599510192871
+Heapsort,Small,Unsorted,0.1101834774017334
+Quicksort,Small,Unsorted,0.04605913162231445
+Mergesort,Small,Unsorted,0.03711247444152832
+Heapsort,Small,Unsorted,0.07597684860229492
+Quicksort,Small,Unsorted,0.05796194076538086
+Mergesort,Small,Unsorted,0.028633832931518555
+Heapsort,Small,Unsorted,0.07266354560852051
+Quicksort,Small,Unsorted,0.0701146125793457
+Mergesort,Small,Unsorted,0.02855539321899414
+Heapsort,Small,Unsorted,0.10183525085449219
+Quicksort,Small,Unsorted,0.0410161018371582
+Mergesort,Small,Unsorted,0.03269839286804199
+Heapsort,Small,Unsorted,0.07434964179992676
+Quicksort,Small,Unsorted,0.043633460998535156
+Mergesort,Small,Unsorted,0.026125431060791016
+Heapsort,Small,Unsorted,0.06453251838684082
+Quicksort,Small,Unsorted,0.046700239181518555
+Mergesort,Small,Unsorted,0.03285646438598633
+Heapsort,Small,Unsorted,0.1155545711517334
+Quicksort,Small,Unsorted,0.06579756736755371
+Mergesort,Small,Unsorted,0.027112960815429688
+Heapsort,Small,Unsorted,0.07837271690368652
+Quicksort,Small,Unsorted,0.05714058876037598
+Mergesort,Small,Unsorted,0.03453207015991211
+Heapsort,Small,Unsorted,0.08662271499633789
+Quicksort,Small,Small to Large,0.20253753662109375
+Mergesort,Small,Small to Large,0.031183719635009766
+Heapsort,Small,Small to Large,0.07825374603271484
+Quicksort,Small,Small to Large,0.18107318878173828
+Mergesort,Small,Small to Large,0.052428245544433594
+Heapsort,Small,Small to Large,0.12505054473876953
+Quicksort,Small,Small to Large,0.16739940643310547
+Mergesort,Small,Small to Large,0.030618906021118164
+Heapsort,Small,Small to Large,0.08305716514587402
+Quicksort,Small,Small to Large,0.1710195541381836
+Mergesort,Small,Small to Large,0.04698991775512695
+Heapsort,Small,Small to Large,0.080169677734375
+Quicksort,Small,Small to Large,0.17216157913208008
+Mergesort,Small,Small to Large,0.03145623207092285
+Heapsort,Small,Small to Large,0.0925600528717041
+Quicksort,Small,Small to Large,0.1981644630432129
+Mergesort,Small,Small to Large,0.02905130386352539
+Heapsort,Small,Small to Large,0.07576179504394531
+Quicksort,Small,Small to Large,0.24104809761047363
+Mergesort,Small,Small to Large,0.058279991149902344
+Heapsort,Small,Small to Large,0.1016685962677002
+Quicksort,Small,Small to Large,0.20452022552490234
+Mergesort,Small,Small to Large,0.05752825736999512
+Heapsort,Small,Small to Large,0.07299089431762695
+Quicksort,Small,Small to Large,0.15806984901428223
+Mergesort,Small,Small to Large,0.03696489334106445
+Heapsort,Small,Small to Large,0.10269951820373535
+Quicksort,Small,Small to Large,0.28299498558044434
+Mergesort,Small,Small to Large,0.039618730545043945
+Heapsort,Small,Small to Large,0.09162354469299316
+Quicksort,Small,Small to Large,0.21695470809936523
+Mergesort,Small,Small to Large,0.038893699645996094
+Heapsort,Small,Small to Large,0.0934145450592041
+Quicksort,Small,Small to Large,0.19093775749206543
+Mergesort,Small,Small to Large,0.026965856552124023
+Heapsort,Small,Small to Large,0.07338285446166992
+Quicksort,Small,Small to Large,0.18144917488098145
+Mergesort,Small,Small to Large,0.0559239387512207
+Heapsort,Small,Small to Large,0.07440376281738281
+Quicksort,Small,Small to Large,0.17503976821899414
+Mergesort,Small,Small to Large,0.02030324935913086
+Heapsort,Small,Small to Large,0.07981562614440918
+Quicksort,Small,Small to Large,0.16979551315307617
+Mergesort,Small,Small to Large,0.03914594650268555
+Heapsort,Small,Small to Large,0.07577657699584961
+Quicksort,Small,Small to Large,0.17301535606384277
+Mergesort,Small,Small to Large,0.040688276290893555
+Heapsort,Small,Small to Large,0.14094805717468262
+Quicksort,Small,Small to Large,0.18303608894348145
+Mergesort,Small,Small to Large,0.04636979103088379
+Heapsort,Small,Small to Large,0.09828734397888184
+Quicksort,Small,Small to Large,0.18198466300964355
+Mergesort,Small,Small to Large,0.030069589614868164
+Heapsort,Small,Small to Large,0.07361793518066406
+Quicksort,Small,Small to Large,0.21603703498840332
+Mergesort,Small,Small to Large,0.048729896545410156
+Heapsort,Small,Small to Large,0.07997441291809082
+Quicksort,Small,Small to Large,0.17098188400268555
+Mergesort,Small,Small to Large,0.048657894134521484
+Heapsort,Small,Small to Large,0.08878850936889648
+Quicksort,Small,Small to Large,0.20457887649536133
+Mergesort,Small,Small to Large,0.050931453704833984
+Heapsort,Small,Small to Large,0.11506247520446777
+Quicksort,Small,Small to Large,0.2189342975616455
+Mergesort,Small,Small to Large,0.03293108940124512
+Heapsort,Small,Small to Large,0.08887672424316406
+Quicksort,Small,Small to Large,0.16399192810058594
+Mergesort,Small,Small to Large,0.054489850997924805
+Heapsort,Small,Small to Large,0.08562207221984863
+Quicksort,Small,Small to Large,0.15293169021606445
+Mergesort,Small,Small to Large,0.04041004180908203
+Heapsort,Small,Small to Large,0.0929563045501709
+Quicksort,Small,Small to Large,0.1814577579498291
+Mergesort,Small,Small to Large,0.04244828224182129
+Heapsort,Small,Small to Large,0.1202688217163086
+Quicksort,Small,Small to Large,0.17617201805114746
+Mergesort,Small,Small to Large,0.025704145431518555
+Heapsort,Small,Small to Large,0.09272551536560059
+Quicksort,Small,Small to Large,0.19052600860595703
+Mergesort,Small,Small to Large,0.03593111038208008
+Heapsort,Small,Small to Large,0.09256196022033691
+Quicksort,Small,Small to Large,0.18665051460266113
+Mergesort,Small,Small to Large,0.0421144962310791
+Heapsort,Small,Small to Large,0.07864999771118164
+Quicksort,Small,Small to Large,0.23060321807861328
+Mergesort,Small,Small to Large,0.029727458953857422
+Heapsort,Small,Small to Large,0.1014094352722168
+Quicksort,Small,Small to Large,0.16289234161376953
+Mergesort,Small,Small to Large,0.03432035446166992
+Heapsort,Small,Small to Large,0.13376474380493164
+Quicksort,Small,Large to Small,0.10593938827514648
+Mergesort,Small,Large to Small,0.0472102165222168
+Heapsort,Small,Large to Small,0.10319042205810547
+Quicksort,Small,Large to Small,0.1631946563720703
+Mergesort,Small,Large to Small,0.02903127670288086
+Heapsort,Small,Large to Small,0.058133840560913086
+Quicksort,Small,Large to Small,0.10075831413269043
+Mergesort,Small,Large to Small,0.019950151443481445
+Heapsort,Small,Large to Small,0.07685399055480957
+Quicksort,Small,Large to Small,0.11492133140563965
+Mergesort,Small,Large to Small,0.02304816246032715
+Heapsort,Small,Large to Small,0.05626344680786133
+Quicksort,Small,Large to Small,0.11231017112731934
+Mergesort,Small,Large to Small,0.02750110626220703
+Heapsort,Small,Large to Small,0.06545019149780273
+Quicksort,Small,Large to Small,0.20083379745483398
+Mergesort,Small,Large to Small,0.0341343879699707
+Heapsort,Small,Large to Small,0.09029555320739746
+Quicksort,Small,Large to Small,0.12786221504211426
+Mergesort,Small,Large to Small,0.03982067108154297
+Heapsort,Small,Large to Small,0.0671091079711914
+Quicksort,Small,Large to Small,0.16298151016235352
+Mergesort,Small,Large to Small,0.043915748596191406
+Heapsort,Small,Large to Small,0.08142995834350586
+Quicksort,Small,Large to Small,0.21629643440246582
+Mergesort,Small,Large to Small,0.023324012756347656
+Heapsort,Small,Large to Small,0.08284306526184082
+Quicksort,Small,Large to Small,0.11275696754455566
+Mergesort,Small,Large to Small,0.03345513343811035
+Heapsort,Small,Large to Small,0.13828349113464355
+Quicksort,Small,Large to Small,0.13088083267211914
+Mergesort,Small,Large to Small,0.02502131462097168
+Heapsort,Small,Large to Small,0.05681943893432617
+Quicksort,Small,Large to Small,0.09572649002075195
+Mergesort,Small,Large to Small,0.03242683410644531
+Heapsort,Small,Large to Small,0.06195688247680664
+Quicksort,Small,Large to Small,0.11156439781188965
+Mergesort,Small,Large to Small,0.023558378219604492
+Heapsort,Small,Large to Small,0.05856823921203613
+Quicksort,Small,Large to Small,0.10047793388366699
+Mergesort,Small,Large to Small,0.03182840347290039
+Heapsort,Small,Large to Small,0.06029629707336426
+Quicksort,Small,Large to Small,0.10014629364013672
+Mergesort,Small,Large to Small,0.019076108932495117
+Heapsort,Small,Large to Small,0.07047700881958008
+Quicksort,Small,Large to Small,0.10205793380737305
+Mergesort,Small,Large to Small,0.038335323333740234
+Heapsort,Small,Large to Small,0.08055543899536133
+Quicksort,Small,Large to Small,0.14333224296569824
+Mergesort,Small,Large to Small,0.023211002349853516
+Heapsort,Small,Large to Small,0.06752991676330566
+Quicksort,Small,Large to Small,0.14396047592163086
+Mergesort,Small,Large to Small,0.02447986602783203
+Heapsort,Small,Large to Small,0.060846567153930664
+Quicksort,Small,Large to Small,0.11302971839904785
+Mergesort,Small,Large to Small,0.034546852111816406
+Heapsort,Small,Large to Small,0.07743191719055176
+Quicksort,Small,Large to Small,0.14366626739501953
+Mergesort,Small,Large to Small,0.023267269134521484
+Heapsort,Small,Large to Small,0.056905269622802734
+Quicksort,Small,Large to Small,0.09650778770446777
+Mergesort,Small,Large to Small,0.028513193130493164
+Heapsort,Small,Large to Small,0.06462764739990234
+Quicksort,Small,Large to Small,0.11449122428894043
+Mergesort,Small,Large to Small,0.01977682113647461
+Heapsort,Small,Large to Small,0.06268024444580078
+Quicksort,Small,Large to Small,0.0945427417755127
+Mergesort,Small,Large to Small,0.033350467681884766
+Heapsort,Small,Large to Small,0.06200814247131348
+Quicksort,Small,Large to Small,0.10711908340454102
+Mergesort,Small,Large to Small,0.03529524803161621
+Heapsort,Small,Large to Small,0.12973833084106445
+Quicksort,Small,Large to Small,0.1651628017425537
+Mergesort,Small,Large to Small,0.053472042083740234
+Heapsort,Small,Large to Small,0.0789175033569336
+Quicksort,Small,Large to Small,0.13863062858581543
+Mergesort,Small,Large to Small,0.030779361724853516
+Heapsort,Small,Large to Small,0.12120842933654785
+Quicksort,Small,Large to Small,0.1758565902709961
+Mergesort,Small,Large to Small,0.0489962100982666
+Heapsort,Small,Large to Small,0.11263847351074219
+Quicksort,Small,Large to Small,0.10624361038208008
+Mergesort,Small,Large to Small,0.029044628143310547
+Heapsort,Small,Large to Small,0.06001543998718262
+Quicksort,Small,Large to Small,0.1037595272064209
+Mergesort,Small,Large to Small,0.01866316795349121
+Heapsort,Small,Large to Small,0.05888938903808594
+Quicksort,Small,Large to Small,0.13894104957580566
+Mergesort,Small,Large to Small,0.029028892517089844
+Heapsort,Small,Large to Small,0.08155298233032227
+Quicksort,Medium,Unsorted,0.4260683059692383
+Mergesort,Medium,Unsorted,0.25374293327331543
+Heapsort,Medium,Unsorted,0.7248177528381348
+Quicksort,Medium,Unsorted,0.3816044330596924
+Mergesort,Medium,Unsorted,0.26076793670654297
+Heapsort,Medium,Unsorted,0.7490959167480469
+Quicksort,Medium,Unsorted,0.3625473976135254
+Mergesort,Medium,Unsorted,0.331897497177124
+Heapsort,Medium,Unsorted,1.2874817848205566
+Quicksort,Medium,Unsorted,0.6231472492218018
+Mergesort,Medium,Unsorted,0.44871997833251953
+Heapsort,Medium,Unsorted,0.9064569473266602
+Quicksort,Medium,Unsorted,0.36997222900390625
+Mergesort,Medium,Unsorted,0.2646453380584717
+Heapsort,Medium,Unsorted,0.8321914672851562
+Quicksort,Medium,Unsorted,0.7339601516723633
+Mergesort,Medium,Unsorted,0.4679081439971924
+Heapsort,Medium,Unsorted,1.0679528713226318
+Quicksort,Medium,Unsorted,0.5050094127655029
+Mergesort,Medium,Unsorted,0.6694014072418213
+Heapsort,Medium,Unsorted,0.9289290904998779
+Quicksort,Medium,Unsorted,0.4422745704650879
+Mergesort,Medium,Unsorted,0.32204222679138184
+Heapsort,Medium,Unsorted,1.3781108856201172
+Quicksort,Medium,Unsorted,0.6328847408294678
+Mergesort,Medium,Unsorted,0.47695493698120117
+Heapsort,Medium,Unsorted,1.3828177452087402
+Quicksort,Medium,Unsorted,0.5588276386260986
+Mergesort,Medium,Unsorted,0.5594580173492432
+Heapsort,Medium,Unsorted,0.8809752464294434
+Quicksort,Medium,Unsorted,0.3831815719604492
+Mergesort,Medium,Unsorted,0.2547612190246582
+Heapsort,Medium,Unsorted,0.7702333927154541
+Quicksort,Medium,Unsorted,0.37352705001831055
+Mergesort,Medium,Unsorted,0.2634763717651367
+Heapsort,Medium,Unsorted,0.7914037704467773
+Quicksort,Medium,Unsorted,0.502385139465332
+Mergesort,Medium,Unsorted,0.29278111457824707
+Heapsort,Medium,Unsorted,0.7286901473999023
+Quicksort,Medium,Unsorted,0.38808703422546387
+Mergesort,Medium,Unsorted,0.29341578483581543
+Heapsort,Medium,Unsorted,0.80082106590271
+Quicksort,Medium,Unsorted,0.3646965026855469
+Mergesort,Medium,Unsorted,0.28141117095947266
+Heapsort,Medium,Unsorted,0.8545999526977539
+Quicksort,Medium,Unsorted,0.366055965423584
+Mergesort,Medium,Unsorted,0.27547264099121094
+Heapsort,Medium,Unsorted,0.7878994941711426
+Quicksort,Medium,Unsorted,0.3876495361328125
+Mergesort,Medium,Unsorted,0.2615525722503662
+Heapsort,Medium,Unsorted,0.8048529624938965
+Quicksort,Medium,Unsorted,0.3706645965576172
+Mergesort,Medium,Unsorted,0.29617953300476074
+Heapsort,Medium,Unsorted,0.7958877086639404
+Quicksort,Medium,Unsorted,0.325514554977417
+Mergesort,Medium,Unsorted,0.27992773056030273
+Heapsort,Medium,Unsorted,0.8388867378234863
+Quicksort,Medium,Unsorted,0.3305974006652832
+Mergesort,Medium,Unsorted,0.3563973903656006
+Heapsort,Medium,Unsorted,0.8323328495025635
+Quicksort,Medium,Unsorted,0.37247180938720703
+Mergesort,Medium,Unsorted,0.34409308433532715
+Heapsort,Medium,Unsorted,0.8248634338378906
+Quicksort,Medium,Unsorted,0.35048604011535645
+Mergesort,Medium,Unsorted,0.27580857276916504
+Heapsort,Medium,Unsorted,0.8162815570831299
+Quicksort,Medium,Unsorted,0.37731003761291504
+Mergesort,Medium,Unsorted,0.28182506561279297
+Heapsort,Medium,Unsorted,0.7991652488708496
+Quicksort,Medium,Unsorted,0.3877100944519043
+Mergesort,Medium,Unsorted,0.2674734592437744
+Heapsort,Medium,Unsorted,0.7535583972930908
+Quicksort,Medium,Unsorted,0.39322757720947266
+Mergesort,Medium,Unsorted,0.2744464874267578
+Heapsort,Medium,Unsorted,0.8199253082275391
+Quicksort,Medium,Unsorted,0.3697795867919922
+Mergesort,Medium,Unsorted,0.3923017978668213
+Heapsort,Medium,Unsorted,0.8116214275360107
+Quicksort,Medium,Unsorted,0.3732743263244629
+Mergesort,Medium,Unsorted,0.3641026020050049
+Heapsort,Medium,Unsorted,0.83742356300354
+Quicksort,Medium,Unsorted,0.35384106636047363
+Mergesort,Medium,Unsorted,0.26505422592163086
+Heapsort,Medium,Unsorted,0.7729713916778564
+Quicksort,Medium,Unsorted,0.377474308013916
+Mergesort,Medium,Unsorted,0.28270578384399414
+Heapsort,Medium,Unsorted,0.803717851638794
+Quicksort,Medium,Unsorted,0.3651413917541504
+Mergesort,Medium,Unsorted,0.28513407707214355
+Heapsort,Medium,Unsorted,0.7691164016723633
+Quicksort,Medium,Small to Large,3.706758737564087
+Mergesort,Medium,Small to Large,0.2661738395690918
+Heapsort,Medium,Small to Large,0.6896641254425049
+Quicksort,Medium,Small to Large,3.6509361267089844
+Mergesort,Medium,Small to Large,0.2607872486114502
+Heapsort,Medium,Small to Large,0.6854374408721924
+Quicksort,Medium,Small to Large,3.626960277557373
+Mergesort,Medium,Small to Large,0.24027538299560547
+Heapsort,Medium,Small to Large,0.7780647277832031
+Quicksort,Medium,Small to Large,3.6707863807678223
+Mergesort,Medium,Small to Large,0.2613816261291504
+Heapsort,Medium,Small to Large,0.7771871089935303
+Quicksort,Medium,Small to Large,3.7868268489837646
+Mergesort,Medium,Small to Large,0.2563004493713379
+Heapsort,Medium,Small to Large,0.7505598068237305
+Quicksort,Medium,Small to Large,3.6148524284362793
+Mergesort,Medium,Small to Large,0.24904847145080566
+Heapsort,Medium,Small to Large,0.7339866161346436
+Quicksort,Medium,Small to Large,3.72078013420105
+Mergesort,Medium,Small to Large,0.44444775581359863
+Heapsort,Medium,Small to Large,1.0545380115509033
+Quicksort,Medium,Small to Large,5.449165105819702
+Mergesort,Medium,Small to Large,0.3543875217437744
+Heapsort,Medium,Small to Large,1.1997535228729248
+Quicksort,Medium,Small to Large,4.919524669647217
+Mergesort,Medium,Small to Large,0.2568981647491455
+Heapsort,Medium,Small to Large,0.919184684753418
+Quicksort,Medium,Small to Large,4.623709440231323
+Mergesort,Medium,Small to Large,0.3527660369873047
+Heapsort,Medium,Small to Large,1.3484578132629395
+Quicksort,Medium,Small to Large,4.492348909378052
+Mergesort,Medium,Small to Large,0.35387277603149414
+Heapsort,Medium,Small to Large,0.7454564571380615
+Quicksort,Medium,Small to Large,4.64155912399292
+Mergesort,Medium,Small to Large,0.2558627128601074
+Heapsort,Medium,Small to Large,0.7448225021362305
+Quicksort,Medium,Small to Large,4.453780889511108
+Mergesort,Medium,Small to Large,0.2521169185638428
+Heapsort,Medium,Small to Large,0.7516129016876221
+Quicksort,Medium,Small to Large,3.991626739501953
+Mergesort,Medium,Small to Large,0.26177120208740234
+Heapsort,Medium,Small to Large,0.9052560329437256
+Quicksort,Medium,Small to Large,4.058745861053467
+Mergesort,Medium,Small to Large,0.27120065689086914
+Heapsort,Medium,Small to Large,0.8635177612304688
+Quicksort,Medium,Small to Large,4.9354400634765625
+Mergesort,Medium,Small to Large,0.394665002822876
+Heapsort,Medium,Small to Large,1.0997357368469238
+Quicksort,Medium,Small to Large,4.3165833950042725
+Mergesort,Medium,Small to Large,0.3659355640411377
+Heapsort,Medium,Small to Large,1.0523655414581299
+Quicksort,Medium,Small to Large,4.929259538650513
+Mergesort,Medium,Small to Large,0.28449559211730957
+Heapsort,Medium,Small to Large,0.8519878387451172
+Quicksort,Medium,Small to Large,4.6523051261901855
+Mergesort,Medium,Small to Large,0.24442028999328613
+Heapsort,Medium,Small to Large,0.7003662586212158
+Quicksort,Medium,Small to Large,3.92769455909729
+Mergesort,Medium,Small to Large,0.34993696212768555
+Heapsort,Medium,Small to Large,1.0388469696044922
+Quicksort,Medium,Small to Large,4.858165979385376
+Mergesort,Medium,Small to Large,0.25477123260498047
+Heapsort,Medium,Small to Large,0.8450546264648438
+Quicksort,Medium,Small to Large,5.319565534591675
+Mergesort,Medium,Small to Large,0.26382946968078613
+Heapsort,Medium,Small to Large,0.7645969390869141
+Quicksort,Medium,Small to Large,3.8835976123809814
+Mergesort,Medium,Small to Large,0.2535707950592041
+Heapsort,Medium,Small to Large,0.8315107822418213
+Quicksort,Medium,Small to Large,3.898860454559326
+Mergesort,Medium,Small to Large,0.23572754859924316
+Heapsort,Medium,Small to Large,0.7738907337188721
+Quicksort,Medium,Small to Large,3.8667469024658203
+Mergesort,Medium,Small to Large,0.2725074291229248
+Heapsort,Medium,Small to Large,0.7627580165863037
+Quicksort,Medium,Small to Large,4.041953802108765
+Mergesort,Medium,Small to Large,0.24979305267333984
+Heapsort,Medium,Small to Large,0.7480294704437256
+Quicksort,Medium,Small to Large,3.7746784687042236
+Mergesort,Medium,Small to Large,0.27893996238708496
+Heapsort,Medium,Small to Large,0.7573947906494141
+Quicksort,Medium,Small to Large,3.720107316970825
+Mergesort,Medium,Small to Large,0.26044559478759766
+Heapsort,Medium,Small to Large,0.7669088840484619
+Quicksort,Medium,Small to Large,4.059454917907715
+Mergesort,Medium,Small to Large,0.2880396842956543
+Heapsort,Medium,Small to Large,0.8272049427032471
+Quicksort,Medium,Small to Large,3.786512613296509
+Mergesort,Medium,Small to Large,0.24971938133239746
+Heapsort,Medium,Small to Large,0.8857178688049316
+Quicksort,Medium,Large to Small,2.7811789512634277
+Mergesort,Medium,Large to Small,0.2696263790130615
+Heapsort,Medium,Large to Small,0.7441563606262207
+Quicksort,Medium,Large to Small,2.7423717975616455
+Mergesort,Medium,Large to Small,0.3957386016845703
+Heapsort,Medium,Large to Small,0.7730145454406738
+Quicksort,Medium,Large to Small,3.0135393142700195
+Mergesort,Medium,Large to Small,0.25215649604797363
+Heapsort,Medium,Large to Small,0.8988251686096191
+Quicksort,Medium,Large to Small,3.3529014587402344
+Mergesort,Medium,Large to Small,0.34685516357421875
+Heapsort,Medium,Large to Small,0.87135910987854
+Quicksort,Medium,Large to Small,2.7329585552215576
+Mergesort,Medium,Large to Small,0.4083852767944336
+Heapsort,Medium,Large to Small,0.8097937107086182
+Quicksort,Medium,Large to Small,2.690424680709839
+Mergesort,Medium,Large to Small,0.27321672439575195
+Heapsort,Medium,Large to Small,0.7521498203277588
+Quicksort,Medium,Large to Small,2.7213940620422363
+Mergesort,Medium,Large to Small,0.2631826400756836
+Heapsort,Medium,Large to Small,0.7814726829528809
+Quicksort,Medium,Large to Small,3.6504507064819336
+Mergesort,Medium,Large to Small,0.2451770305633545
+Heapsort,Medium,Large to Small,0.727428674697876
+Quicksort,Medium,Large to Small,2.6974422931671143
+Mergesort,Medium,Large to Small,0.24606585502624512
+Heapsort,Medium,Large to Small,0.6735744476318359
+Quicksort,Medium,Large to Small,2.7413408756256104
+Mergesort,Medium,Large to Small,0.2901275157928467
+Heapsort,Medium,Large to Small,0.7187807559967041
+Quicksort,Medium,Large to Small,4.205366134643555
+Mergesort,Medium,Large to Small,0.30121755599975586
+Heapsort,Medium,Large to Small,0.8254907131195068
+Quicksort,Medium,Large to Small,3.1744444370269775
+Mergesort,Medium,Large to Small,0.2718684673309326
+Heapsort,Medium,Large to Small,0.8786258697509766
+Quicksort,Medium,Large to Small,3.0012621879577637
+Mergesort,Medium,Large to Small,0.3053300380706787
+Heapsort,Medium,Large to Small,0.8117234706878662
+Quicksort,Medium,Large to Small,3.17740535736084
+Mergesort,Medium,Large to Small,0.439669132232666
+Heapsort,Medium,Large to Small,0.8033077716827393
+Quicksort,Medium,Large to Small,2.776637554168701
+Mergesort,Medium,Large to Small,0.23959112167358398
+Heapsort,Medium,Large to Small,1.1375453472137451
+Quicksort,Medium,Large to Small,3.074005365371704
+Mergesort,Medium,Large to Small,0.2832067012786865
+Heapsort,Medium,Large to Small,0.7847151756286621
+Quicksort,Medium,Large to Small,2.9033896923065186
+Mergesort,Medium,Large to Small,0.29392385482788086
+Heapsort,Medium,Large to Small,0.7840414047241211
+Quicksort,Medium,Large to Small,3.9544901847839355
+Mergesort,Medium,Large to Small,0.3634641170501709
+Heapsort,Medium,Large to Small,0.9575352668762207
+Quicksort,Medium,Large to Small,2.8623242378234863
+Mergesort,Medium,Large to Small,0.3352220058441162
+Heapsort,Medium,Large to Small,0.8482151031494141
+Quicksort,Medium,Large to Small,3.727186679840088
+Mergesort,Medium,Large to Small,0.329423189163208
+Heapsort,Medium,Large to Small,0.798363208770752
+Quicksort,Medium,Large to Small,2.8740999698638916
+Mergesort,Medium,Large to Small,0.36745285987854004
+Heapsort,Medium,Large to Small,1.148226022720337
+Quicksort,Medium,Large to Small,3.4713211059570312
+Mergesort,Medium,Large to Small,0.25834155082702637
+Heapsort,Medium,Large to Small,0.9424033164978027
+Quicksort,Medium,Large to Small,3.604438304901123
+Mergesort,Medium,Large to Small,0.26352620124816895
+Heapsort,Medium,Large to Small,0.7687489986419678
+Quicksort,Medium,Large to Small,3.299307346343994
+Mergesort,Medium,Large to Small,0.2563204765319824
+Heapsort,Medium,Large to Small,0.7200379371643066
+Quicksort,Medium,Large to Small,2.9446358680725098
+Mergesort,Medium,Large to Small,0.3341856002807617
+Heapsort,Medium,Large to Small,0.7032041549682617
+Quicksort,Medium,Large to Small,2.8354334831237793
+Mergesort,Medium,Large to Small,0.3812882900238037
+Heapsort,Medium,Large to Small,0.9793288707733154
+Quicksort,Medium,Large to Small,3.5095810890197754
+Mergesort,Medium,Large to Small,0.5680806636810303
+Heapsort,Medium,Large to Small,0.9181456565856934
+Quicksort,Medium,Large to Small,3.418206214904785
+Mergesort,Medium,Large to Small,0.5016059875488281
+Heapsort,Medium,Large to Small,0.974193811416626
+Quicksort,Medium,Large to Small,3.125535249710083
+Mergesort,Medium,Large to Small,0.2509269714355469
+Heapsort,Medium,Large to Small,0.6856307983398438
+Quicksort,Medium,Large to Small,2.8717575073242188
+Mergesort,Medium,Large to Small,0.2516970634460449
+Heapsort,Medium,Large to Small,0.6853048801422119
+Quicksort,Large,Unsorted,4.494380235671997
+Mergesort,Large,Unsorted,4.582038640975952
+Heapsort,Large,Unsorted,11.550184726715088
+Quicksort,Large,Unsorted,4.5421462059021
+Mergesort,Large,Unsorted,4.884390592575073
+Heapsort,Large,Unsorted,10.054326057434082
+Quicksort,Large,Unsorted,4.19668173789978
+Mergesort,Large,Unsorted,4.971254348754883
+Heapsort,Large,Unsorted,9.341439008712769
+Quicksort,Large,Unsorted,4.537081480026245
+Mergesort,Large,Unsorted,4.194481134414673
+Heapsort,Large,Unsorted,10.46595811843872
+Quicksort,Large,Unsorted,4.511919736862183
+Mergesort,Large,Unsorted,4.415809631347656
+Heapsort,Large,Unsorted,10.546257972717285
+Quicksort,Large,Unsorted,4.423279762268066
+Mergesort,Large,Unsorted,3.940502405166626
+Heapsort,Large,Unsorted,12.24570894241333
+Quicksort,Large,Unsorted,5.032141208648682
+Mergesort,Large,Unsorted,5.752661228179932
+Heapsort,Large,Unsorted,10.894604444503784
+Quicksort,Large,Unsorted,5.00684666633606
+Mergesort,Large,Unsorted,4.575274705886841
+Heapsort,Large,Unsorted,9.507851362228394
+Quicksort,Large,Unsorted,3.9002866744995117
+Mergesort,Large,Unsorted,3.993753671646118
+Heapsort,Large,Unsorted,8.606815338134766
+Quicksort,Large,Unsorted,4.159824371337891
+Mergesort,Large,Unsorted,4.082610368728638
+Heapsort,Large,Unsorted,8.597527980804443
+Quicksort,Large,Unsorted,3.91168475151062
+Mergesort,Large,Unsorted,4.032671213150024
+Heapsort,Large,Unsorted,8.726924896240234
+Quicksort,Large,Unsorted,3.8265867233276367
+Mergesort,Large,Unsorted,3.974830150604248
+Heapsort,Large,Unsorted,8.449836015701294
+Quicksort,Large,Unsorted,5.142225742340088
+Mergesort,Large,Unsorted,4.019351482391357
+Heapsort,Large,Unsorted,8.565088987350464
+Quicksort,Large,Unsorted,3.6893422603607178
+Mergesort,Large,Unsorted,3.9955668449401855
+Heapsort,Large,Unsorted,8.514182567596436
+Quicksort,Large,Unsorted,4.096720457077026
+Mergesort,Large,Unsorted,4.142077684402466
+Heapsort,Large,Unsorted,10.20266318321228
+Quicksort,Large,Unsorted,4.577932119369507
+Mergesort,Large,Unsorted,4.828675746917725
+Heapsort,Large,Unsorted,9.902429342269897
+Quicksort,Large,Unsorted,5.095643997192383
+Mergesort,Large,Unsorted,5.051787853240967
+Heapsort,Large,Unsorted,9.977160692214966
+Quicksort,Large,Unsorted,4.481753349304199
+Mergesort,Large,Unsorted,4.287450551986694
+Heapsort,Large,Unsorted,9.444612979888916
+Quicksort,Large,Unsorted,4.6617512702941895
+Mergesort,Large,Unsorted,4.69916844367981
+Heapsort,Large,Unsorted,9.242679834365845
+Quicksort,Large,Unsorted,4.558352470397949
+Mergesort,Large,Unsorted,4.455832481384277
+Heapsort,Large,Unsorted,10.979596376419067
+Quicksort,Large,Unsorted,4.865148305892944
+Mergesort,Large,Unsorted,5.585514068603516
+Heapsort,Large,Unsorted,8.460596799850464
+Quicksort,Large,Unsorted,3.991619825363159
+Mergesort,Large,Unsorted,4.0371809005737305
+Heapsort,Large,Unsorted,8.602333545684814
+Quicksort,Large,Unsorted,4.08690333366394
+Mergesort,Large,Unsorted,4.162675857543945
+Heapsort,Large,Unsorted,8.742987155914307
+Quicksort,Large,Unsorted,4.034175872802734
+Mergesort,Large,Unsorted,4.125064373016357
+Heapsort,Large,Unsorted,9.916969776153564
+Quicksort,Large,Unsorted,4.629762887954712
+Mergesort,Large,Unsorted,4.803704023361206
+Heapsort,Large,Unsorted,10.088550806045532
+Quicksort,Large,Unsorted,4.695352077484131
+Mergesort,Large,Unsorted,4.458900451660156
+Heapsort,Large,Unsorted,9.51264476776123
+Quicksort,Large,Unsorted,5.326123952865601
+Mergesort,Large,Unsorted,4.873852014541626
+Heapsort,Large,Unsorted,10.390022277832031
+Quicksort,Large,Unsorted,4.542101860046387
+Mergesort,Large,Unsorted,3.8538663387298584
+Heapsort,Large,Unsorted,8.408657550811768
+Quicksort,Large,Unsorted,4.391789674758911
+Mergesort,Large,Unsorted,4.97856593132019
+Heapsort,Large,Unsorted,12.257338762283325
+Quicksort,Large,Unsorted,4.894718170166016
+Mergesort,Large,Unsorted,5.2576727867126465
+Heapsort,Large,Unsorted,10.03647756576538
+Quicksort,Large,Small to Large,108.4121880531311
+Mergesort,Large,Small to Large,3.8471896648406982
+Heapsort,Large,Small to Large,8.275842428207397
+Quicksort,Large,Small to Large,115.81569194793701
+Mergesort,Large,Small to Large,3.224616765975952
+Heapsort,Large,Small to Large,9.484340190887451

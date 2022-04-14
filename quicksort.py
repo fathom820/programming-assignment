@@ -6,7 +6,7 @@ def median_three(a, b, c):
     return sorted([a, b, c])[1] 
     
 
-# Partitioning algorithm, inspired by 
+# Partitioning algorithm, inspired by
 # dutch national flag problem mentioned
 # in the handout.
 def qs_part(A, lo, hi):

@@ -25,9 +25,10 @@ class colors:
 
 # constants that are shared across all files
 class const:
+    basic_ops           = 0
     num_files           = 30                                                            # number of files generated per category
     ext                 = ".dat"                                                        # file extension for data files
-    sizes               = [10000, 100000, 1000000]                                      # sizes of each data set
+    sizes               = [10000, 100000, 1000000]                                   # sizes of each data set
     results_file        = "results.csv"
     sizes_str           = ["Small", "Medium", "Large"]
     cases               = ["Unsorted", "Small to Large", "Large to Small"]
@@ -104,6 +105,10 @@ def print_action(action, file_name, start_time, console_only):
 def print_notif(msg):
     print(colors.HEADER + colors.BOLD + " -- " + msg.upper() + " -- " + colors.ENDC)
 
+# test function for counting basic operations
+# deprecated
+def bop():
+    const.basic_ops += 1
 
 # reads contents of a file, separated by line,
 # then stores them in an array. Returns said array

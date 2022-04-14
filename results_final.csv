@@ -1,0 +1,14 @@
+Row Labels,Average of Runtime (Seconds)
+Heapsort,3.732330807
+Large to Small,3.34398583
+Small to Large,3.476982127
+Unsorted,4.376024463
+Mergesort,1.781715201
+Large to Small,1.575126693
+Small to Large,1.573018474
+Unsorted,2.197000435
+Quicksort,22.32693542
+Large to Small,25.27338129
+Small to Large,39.31518103
+Unsorted,2.39224395
+Grand Total,9.280327143

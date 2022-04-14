@@ -27,9 +27,10 @@ for i in range(3):
             write_to    = output_dir + str(k) + s.const.ext
             input_array = s.file_to_array(read_from)        
             
-            # ! Quick Sort
-            start_time  = time.time()  
+            # ! Quick Sort 
+            start_time  = time.time()
             quicksort.quick_sort(input_array, 0, len(input_array) - 1)
+            s.record_results("Quicksort", s.const.sizes_str[i], s.const.cases[j], start_time) # log results to results.csv
             dir_ = output_dir + "quicksort/"
             
             if not os.path.isdir(dir_):
@@ -37,7 +38,6 @@ for i in range(3):
                 
             write_to = dir_ + str(k) + s.const.ext
             s.array_to_file (input_array, write_to)
-            s.record_results("Quicksort", s.const.sizes_str[i], s.const.cases[j], start_time) # log results to results.csv
             s.print_action  ("Quicksort", write_to, start_time, False) # terminal feedback
             
             # ! Merge Sort
@@ -45,6 +45,7 @@ for i in range(3):
             # i couldn't figure out a way to do it otherwise.
             start_time  = time.time()
             out = mergesort.merge_sort(input_array)
+            s.record_results("Mergesort", s.const.sizes_str[i], s.const.cases[j], start_time) # log results to results.csv
             dir_ = output_dir + "mergesort/"
             
             if not os.path.isdir(dir_):
@@ -52,12 +53,12 @@ for i in range(3):
                 
             write_to = dir_ + str(k) + s.const.ext
             s.array_to_file(out, write_to)
-            s.record_results("Mergesort", s.const.sizes_str[i], s.const.cases[j], start_time) # log results to results.csv
             s.print_action("Mergesort", write_to, start_time, False)
             
             # ! Heap Sort
             start_time  = time.time()
             heapsort.heap_sort(input_array)
+            s.record_results("Heapsort", s.const.sizes_str[i], s.const.cases[j], start_time)
             dir_ = output_dir + "heapsort/"
             
             if not os.path.isdir(dir_):
@@ -65,5 +66,4 @@ for i in range(3):
                 
             write_to = dir_ + str(k) + s.const.ext
             s.array_to_file(input_array, write_to)
-            s.record_results("Heapsort", s.const.sizes_str[i], s.const.cases[j], start_time)
-            s.print_action("Heapsort", write_to, start_time, False)
+            s.print_action("Heapsort ", write_to, start_time, False)
