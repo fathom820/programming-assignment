@@ -43,5 +43,3 @@ for i in range(3):
 s.print_notif("done")
 elapsed_time = format((time.time() - start_time), ",")
 print("Total sorting time: " + elapsed_time[0:5] + " seconds")
-
-
